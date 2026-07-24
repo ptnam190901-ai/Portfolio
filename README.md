@@ -53,12 +53,12 @@ Implement factor analysis to identify the correlation between 6 interaction fact
 ### Master’s in Business Analytics (Business Analytics) | University of Oulu
 - **CGPA:**: 4.69/5.0
 - **Term:** 2025 - 2027
-- **Relevant Coursework:** Towards Data Mining, Statistics for Business Analytics, Data Analytics & Business Intelligence, Data Modeling and Design
+- **Relevant Courseworks:** Towards Data Mining, Statistics for Business Analytics, Data Analytics & Business Intelligence, Data Modeling and Design
 
 ### Bachelor of Economics of International Trade | Vietnam Maritime University
 - **CGPA:** 3.76/4.0
 - **Term:** 2019 - 2023
-- **Relevant Coursework:** Econometrics, Principles of Finance and Money, International Business
+- **Relevant Courseworks:** Econometrics, Principles of Finance and Money, International Business
 ---
 ## CERTIFICATION
 - **Hackerrank:** SQL (Advance) Cerfitificat of Accomplishment

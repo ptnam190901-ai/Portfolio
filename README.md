@@ -9,6 +9,39 @@
 Motivated **Business Analyst** with hands-on experience in **data transformation** and **business intelligence**. Motivated to apply my **analytical mindset** to real **international environments** and **business scenarios**.
 
 ---
+## Featured Projects
+
+### [Shopee Delivery Optimization - Power BI](https://github.com/ptnam190901-ai/Power-BI---Shopee-Logistics)
+Developed an interactive analytics dashboard to track delivery preparation time and detect late delivery occurences. The projects helps identify highly-late delivery units and locations, and operational bottlenecks.
+
+**Key Skills:** Power BI, DAX formulas, Star Schema, Process Analysis, Dashboard Design
+
+### [Google Ads Performance - Python](https://github.com/ptnam190901-ai/Python---Google-Ads-performance)
+Built analytical workflows from ingestion, transformation to visualization to identify the top high-performing and cost-efficient keywork groups. Evaluated conversion rate and return on investment (ROI) to recommend resource allocation.
+
+**Key Skills:** Python, Pandas, Matplotlib, Exploratory Analysis
+
+### [eBay Used Cars Sales - Python](https://github.com/ptnam190901-ai/Python-_eBay_used_cars_sales)
+This project aims to clean the dataset and perform some initial analysis on it, which gives facts about used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website. Applied segment analysis to figure the most popular brand or models for sales.
+
+**Key Skills:** Python, Pandas, Data Cleaning
+
+### [Hacker Post News - Python](https://github.com/ptnam190901-ai/Python_Hacker_New_Posts)
+This project is implemented to analyze the dataset of submission to popular technology site Hacker News. Applied sentiment analysis to show which posts have a tendency to receive more likes or comments.
+
+**Key Skills:** Python, Loop, Sentiment Analysis
+
+### [User Event Application - SQL](https://github.com/ptnam190901-ai/SQL_user_event)
+Implemented SQL-based analysis using an application user data to figure out the popularity and marketing performance of an application developer based on Daily Active Users (DAU), App Hold Rate (AHR) and user sharing ratio.
+
+**Key Skills:** SQL, MySQL, Window Functions, KPI Analysis
+
+### [Social Exchange Model - R](https://github.com/ptnam190901-ai/R---Social-Exchange-model)
+Implement factor analysis to identify the correlation between 6 interaction factors and quality management. Built 2 structural models and validated them using fit indexes.
+
+**Key Skills:** R, EFA, CFA, SEM, structural models
+
+---
 ## Technical Skills
 - **Programming & Database:** Python, MySQL, ERP, R, SPSS, ERP, MongoDB
 - **Data Visualization:** Power BI, Tableau, SAS Visual Analytics

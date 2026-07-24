@@ -19,17 +19,13 @@ Developed an interactive analytics dashboard to track delivery preparation time 
 ### [Google Ads Performance - Python](https://github.com/ptnam190901-ai/Python---Google-Ads-performance)
 Built analytical workflows from ingestion, transformation to visualization to identify the top high-performing and cost-efficient keywork groups. Evaluated conversion rate and return on investment (ROI) to recommend resource allocation.
 
-**Key Skills:** Python, Pandas, Matplotlib, Exploratory Analysis
+**Key Skills:** Python, Pandas, Matplotlib, Seaborn, Exploratory Analysis
 
 ### [eBay Used Cars Sales - Python](https://github.com/ptnam190901-ai/Python-_eBay_used_cars_sales)
 This project aims to clean the dataset and perform some initial analysis on it, which gives facts about used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website. Applied segment analysis to figure the most popular brand or models for sales.
 
 **Key Skills:** Python, Pandas, Data Cleaning
 
-### [Hacker Post News - Python](https://github.com/ptnam190901-ai/Python_Hacker_New_Posts)
-This project is implemented to analyze the dataset of submission to popular technology site Hacker News. Applied sentiment analysis to show which posts have a tendency to receive more likes or comments.
-
-**Key Skills:** Python, Loop, Sentiment Analysis
 
 ### [User Event Application - SQL](https://github.com/ptnam190901-ai/SQL_user_event)
 Implemented SQL-based analysis using an application user data to figure out the popularity and marketing performance of an application developer based on Daily Active Users (DAU), App Hold Rate (AHR) and user sharing ratio.

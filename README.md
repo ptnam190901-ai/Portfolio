@@ -1,7 +1,7 @@
 # Pham Trung Nam
 
 ##### Business Analyst | Economics and Business Background
-##### ptnam190901@gmail.com
+##### ptnam190901@gmail.com | https://www.linkedin.com/in/ptnam-msx/
 
 ---
 ## About Me

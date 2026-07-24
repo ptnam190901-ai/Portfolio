@@ -1,19 +1,26 @@
 # Pham Trung Nam
 
-##### Data Analyst | Economics and Business Background
+##### Business Analyst | Economics and Business Background
 ##### ptnam190901@gmail.com
 
 ---
 ## About Me
 
-Motivated **Data Analyst** with hands-on experience in **data transformation** and **business intelligence**. Motivated to apply my **analytical mindset** to real **international environments** and **business scenarios**.
+Motivated **Business Analyst** with hands-on experience in **data transformation** and **business intelligence**. Motivated to apply my **analytical mindset** to real **international environments** and **business scenarios**.
 
+---
+## Technical Skills
+- **Programming & Database:** Python, MySQL, ERP, R, SPSS, ERP, MongoDB
+- **Data Visualization:** Power BI, Tableau, SAS Visual Analytics
+- **Data Analysis:** Pandas, NumPy, DAX formulas, Power Query
+- **Statistical Analysis:** EFA, CFA, SEM
+- **Business:** Financial Analysis, Hypothesis Validation, KPI Tracking
 ---
 ## EDUCATIONAL BACKGROUND
 ### Master’s in Business Analytics (Business Analytics) | University of Oulu
 - **CGPA:**: 4.69/5.0
 - **Term:** 2025 - 2027
-- **Relevant Coursework:** Towards Data Mining, Statistics for Business Analytics, Data Analytics & Business Intelligence
+- **Relevant Coursework:** Towards Data Mining, Statistics for Business Analytics, Data Analytics & Business Intelligence, Data Modeling and Design
 
 ### Bachelor of Economics of International Trade | Vietnam Maritime University
 - **CGPA:** 3.76/4.0
